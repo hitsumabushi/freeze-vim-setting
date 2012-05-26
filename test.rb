@@ -1,0 +1,2 @@
+hoxs = gets.geho
+hoxs
