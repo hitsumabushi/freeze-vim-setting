@@ -16,7 +16,7 @@ How freeze
 How reproduce
 --------------
 *   This is a example of the file for reproduceing freeze.  
-        foo = gets.bar
+        foo = gets.bar  
         foo.(type \<C-x\> \<C-o\>)
 
 *   See test.rb file.
