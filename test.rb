@@ -1,7 +1,7 @@
 ## Freeze
 # This is a template for freezing omnicompletion.
 #   foo = gets.bar
-#   foo.(type <C-x> <C-o>)
+#   foo.(type \<C-x\> \<C-o\>)
 
 ## Examples
 
