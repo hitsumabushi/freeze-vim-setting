@@ -9,8 +9,7 @@ Environment
 
 How freeze
 ------------
-*   Freeze occur when editting ruby file.
-*   When I use omnifunc(=rubycomplete#Complete), display the search message and never finish searching.  
+*   When I use omnifunc(=rubycomplete#Complete) in ruby file, display the search message and never finish searching.  
     (I think, omnifunc should return some suggestion or "Pattern not found".)
 
 How reproduce
@@ -20,4 +19,4 @@ How reproduce
         foo = gets.bar  
         foo.(type <C-x> <C-o>)
 
-*   See test.rb file.
+*   For more exampe, see test.rb file.
