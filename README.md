@@ -3,7 +3,7 @@ freeze-vim-setting
 
 Environment
 ------------
-*   OS : Debian squeeze
+*   OS : Debian sid
 *   Version of Vim : 7.3  
     For more detail, see .vimrc & bugreport.txt.
 
